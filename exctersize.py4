@@ -1,0 +1,10 @@
+num-1=invalid contains un supported character
+1num=valid follows all rules
+firstname = valid follows all rules
+lastname = valid follows all rules
+age = valid follows all rules
+-1 = invalid contains un supported character
+country = valid follows all rules
+city = valid valid follows all rules
+first_name = valid follows all rules
+last_name

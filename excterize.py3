@@ -1,0 +1,5 @@
+print('Hello')
+print('1213')
+print('98.1')
+print('John')
+print('Friday is the best')

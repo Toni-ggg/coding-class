@@ -1,0 +1,12 @@
+name= input('enter your name' )
+phonum = input('enter your phone number' )
+age = input('enter your age' )
+age = int(age)
+height = input('enter your height')
+height = float(height)
+ec = input('enter your eircode' )
+
+print(name,phonum)
+print(name,ec)
+print(age,height)
+print(name,age,height,ec)

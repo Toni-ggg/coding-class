@@ -1,0 +1,12 @@
+1.variable = message
+value = hello world
+datatype = string
+
+2.variables = nimber1,number2,total_sum,prduct
+value = 10,15,15,150
+datatype = integer-no decimal points
+
+
+3.variable=number,name
+value= -10.6,'ralph'
+datatype= float beacuse it has a decimal point,intger
