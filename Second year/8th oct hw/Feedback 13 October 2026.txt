@@ -1,0 +1,4 @@
+
+Your code is very good.
+
+When you are calculating the commission, you need to multiply by .15 and .05 respectively instead of 15 and 5 

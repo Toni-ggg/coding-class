@@ -1,0 +1,1 @@
+Please don't add shortcuts to other code files in your GitHub account.

@@ -1,0 +1,16 @@
+Excellent work - when you save your files don't add numbers to the end - for example exctersize.py1 stops it being detected by the computer. excterize1.py would work much better.
+
+For the program average temperature. Your answer is wrong, because division
+happens before addition in maths.
+
+You need to put the three additions in brackets before you do the division to
+get the right answer.
+
+For excterize.py3, the numbers should not be in quotes. You can just write numbers inside the brackets.
+
+excterize.py4 - You didn't finish this. All your answers are correct except the second one as you can't start a variable with a number so it is invalid.
+
+exctersize.py6 - the datatype of 'ralph' in program 3 is not integer. In program 2 the value for total_sum is 25
+
+
+
