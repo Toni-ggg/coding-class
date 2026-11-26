@@ -1,0 +1,11 @@
+def num_test(num):
+    return(num)
+num = float(input('please enter a number: '))
+if num>10:
+    print('greater than 10')
+if num<10:
+    print('less than 10')
+if num == 10:
+    print('equal to 10')
+value = num
+print(value)
