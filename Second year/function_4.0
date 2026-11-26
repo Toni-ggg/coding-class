@@ -1,0 +1,7 @@
+def hh(num1,num2):
+    div = num1/num2
+    return(div)
+num1 = float(input('please enter a number: '))
+num2 = float(input('please enter another number: '))
+value = hh(num1,num2)
+print(value)

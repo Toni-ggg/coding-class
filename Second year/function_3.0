@@ -1,0 +1,7 @@
+def jj(num1,num2):
+    sum1=num1 * num2
+    return sum1
+num1=float(input('please enter a number: '))
+num2 = float(input('please enter a number: '))
+value = jj(num1,num2)
+print(value)

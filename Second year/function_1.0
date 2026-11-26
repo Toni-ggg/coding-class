@@ -1,0 +1,7 @@
+def gg(num,num1):
+    add = num + num1
+    return add
+num = float(input('please enter a number: '))
+num1 = float(input('please enter a number: '))
+value = gg(num1,num)
+print(value)

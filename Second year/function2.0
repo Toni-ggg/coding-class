@@ -1,0 +1,5 @@
+def function(var1):
+    for i in string:
+        return(i)
+string= input('please enter a word: ')
+value = function(string)
